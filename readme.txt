@@ -1,0 +1,3 @@
+model.py 中是encoder和VAE模型
+main.py中是生成的主函数，可以按照注释更改参数完成不同任务的复现
+generated文件夹是生成的图像
